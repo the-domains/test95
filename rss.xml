@@ -4,8 +4,15 @@
         <description><![CDATA[Strona testowa 95]]></description>
         <link>https://thegrid.ai/test95/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 04:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 04:41:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test95/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nawigacja1]]></title>
+            <description><![CDATA[<article><h1>Nawigacja1</h1><p>coś ciekawego musi się tutaj pojawić.</p></article>]]></description>
+            <link>https://thegrid.ai/test95/nawigacja1/index.html</link>
+            <guid isPermaLink="false">b9f0e44c-a767-480c-8511-e8a795f3c14a</guid>
+            <pubDate>Sun, 13 Mar 2016 04:41:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Kategorie usług</p>]]></description>
