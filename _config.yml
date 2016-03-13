@@ -1,0 +1,28 @@
+name: test95
+favicon: null
+layout_spectrum: 0.4887303439900279
+typography_spectrum: 0.8454762175679207
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.035062103532254696
+  lightness: 0.17399558681063354
+  saturation: 0.8818970841821283
+  rhythmicContrast: 0.6502800723537803
+purpose: []
